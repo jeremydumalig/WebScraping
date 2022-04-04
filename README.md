@@ -5,5 +5,5 @@
 Web Scraper.ipynb
 * Jupyter Notebook that writes functions to scrape basketball data
 
-traditional22.csv (sample exported dataset)
-* Traditional statistics from the 2021-22 NBA season, scraped from NBA.com
+traditional22.csv
+* Traditional statistics from the 2021-22 NBA season, scraped from NBA.com (sample exported dataset)
