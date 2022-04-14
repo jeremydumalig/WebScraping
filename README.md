@@ -2,7 +2,7 @@
 
 *This project scrapes from NBA.com, ESPN.com, WNBA.com, and Basketball-Reference.com and exports data as a csv. Chromedriver ins. The full project can be found [here](https://jeremydumalig.com/web-scraping/).*
 
-*Packages/Libraries Used : selenium, BeautifulSoup, pandas*
+*Packages/Libraries Used : BeautifulSoup, selenium, pandas*
 
 <br>
 
