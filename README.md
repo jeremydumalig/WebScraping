@@ -6,7 +6,7 @@
 
 <br>
 
-Web Scraper.ipynb
+**Web Scraper.ipynb**
 * Jupyter Notebook that writes functions to scrape basketball data
 
 traditional22.csv
